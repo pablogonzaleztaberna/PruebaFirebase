@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PruebaFirebase</string>
+    <string name="app_name">Login y Registro</string>
     <string name="correo">Correo</string>
     <string name="contra">Contraseña</string>
 </resources>
